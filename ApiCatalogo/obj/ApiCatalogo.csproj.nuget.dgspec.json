@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ARLAN-DESK\\source\\repos\\apicatalogo\\apicatalogo\\ApiCatalogo.csproj": {}
+    "C:\\Users\\ARLAN-DESK\\source\\repos\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ARLAN-DESK\\source\\repos\\apicatalogo\\apicatalogo\\ApiCatalogo.csproj": {
+    "C:\\Users\\ARLAN-DESK\\source\\repos\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ARLAN-DESK\\source\\repos\\apicatalogo\\apicatalogo\\ApiCatalogo.csproj",
+        "projectUniqueName": "C:\\Users\\ARLAN-DESK\\source\\repos\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj",
         "projectName": "ApiCatalogo",
-        "projectPath": "C:\\Users\\ARLAN-DESK\\source\\repos\\apicatalogo\\apicatalogo\\ApiCatalogo.csproj",
+        "projectPath": "C:\\Users\\ARLAN-DESK\\source\\repos\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj",
         "packagesPath": "C:\\Users\\ARLAN-DESK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ARLAN-DESK\\source\\repos\\apicatalogo\\apicatalogo\\obj\\",
+        "outputPath": "C:\\Users\\ARLAN-DESK\\source\\repos\\ApiCatalogo\\ApiCatalogo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\ComponentOne\\WinForms Edition\\bin\\v5\\",
@@ -61,6 +61,16 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.15, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
